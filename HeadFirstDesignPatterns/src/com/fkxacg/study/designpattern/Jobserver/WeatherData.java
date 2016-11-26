@@ -1,4 +1,4 @@
-package com.fkxacg.study.designpattern.observerJ;
+package com.fkxacg.study.designpattern.Jobserver;
 
 import java.util.Observable;
 

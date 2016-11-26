@@ -7,4 +7,4 @@
  * @author fkxacg
  *
  */
-package com.fkxacg.study.designpattern.adapterJ;
+package com.fkxacg.study.designpattern.Jadapter;

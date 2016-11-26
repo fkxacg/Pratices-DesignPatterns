@@ -1,4 +1,4 @@
-package com.fkxacg.study.designpattern.observerJ;
+package com.fkxacg.study.designpattern.Jobserver;
 
 public class WeatherStation {
 	public static void main(String[] args){

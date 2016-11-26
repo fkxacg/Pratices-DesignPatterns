@@ -1,4 +1,4 @@
-package com.fkxacg.study.designpattern.adapterJ;
+package com.fkxacg.study.designpattern.Jadapter;
 
 import java.util.Enumeration;
 import java.util.Iterator;

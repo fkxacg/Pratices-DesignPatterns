@@ -1,4 +1,4 @@
-package com.fkxacg.study.designpattern.templateJ;
+package com.fkxacg.study.designpattern.Jtemplate;
 
 import java.awt.Graphics;
 

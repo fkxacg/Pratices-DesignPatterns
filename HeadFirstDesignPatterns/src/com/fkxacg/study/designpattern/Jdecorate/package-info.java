@@ -16,4 +16,4 @@
  * @author fkxacg
  *
  */
-package com.fkxacg.study.designpattern.decorateJ;
+package com.fkxacg.study.designpattern.Jdecorate;

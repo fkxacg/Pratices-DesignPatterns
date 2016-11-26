@@ -1,4 +1,4 @@
-package com.fkxacg.study.designpattern.decorateJ;
+package com.fkxacg.study.designpattern.Jdecorate;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

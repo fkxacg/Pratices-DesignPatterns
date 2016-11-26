@@ -8,4 +8,4 @@
  * @author fkxacg
  *
  */
-package com.fkxacg.study.designpattern.templateJ;
+package com.fkxacg.study.designpattern.Jtemplate;
